@@ -114,7 +114,7 @@ switch currentWeather{
     case "snow":
         print("it's snowing, make some snow angels")
     default:
-        print("whatever")
+        print("stay cool rockstar")
 }
 ```
 
